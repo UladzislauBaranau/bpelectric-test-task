@@ -1,0 +1,576 @@
+[
+    {
+        "name": "Java",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637260"
+    },
+    {
+        "name": "Automatization",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 1
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637279"
+    },
+    {
+        "name": "Resource Management/Staffing Team",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637285"
+    },
+    {
+        "name": "JS Unit",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637290"
+    },
+    {
+        "name": "Innowise IT Hub",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637294"
+    },
+    {
+        "name": "Python Unit",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 2
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637300"
+    },
+    {
+        "name": "PHP",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637304"
+    },
+    {
+        "name": "Angular",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637309"
+    },
+    {
+        "name": ".NET",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637314"
+    },
+    {
+        "name": "Business Analysis",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637318"
+    },
+    {
+        "name": "Project Management Office",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 1
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637323"
+    },
+    {
+        "name": "Learning and Development",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637328"
+    },
+    {
+        "name": "Design Studio",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637333"
+    },
+    {
+        "name": "Mobile",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637338"
+    },
+    {
+        "name": "DevOps",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637342"
+    },
+    {
+        "name": "Big Data",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637347"
+    },
+    {
+        "name": "Quality Assurance",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637351"
+    },
+    {
+        "name": "Management Accounting",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637355"
+    },
+    {
+        "name": "HR Business Partnering",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637359"
+    },
+    {
+        "name": "Sales Process and Analytics Management Group",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637363"
+    },
+    {
+        "name": "International Administration",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637367"
+    },
+    {
+        "name": "IT Infrastructure",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637372"
+    },
+    {
+        "name": "Agreement Support",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637377"
+    },
+    {
+        "name": "Partnership",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637381"
+    },
+    {
+        "name": "Presale Group",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637386"
+    },
+    {
+        "name": "Office, Minsk",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637390"
+    },
+    {
+        "name": "Office, Gomel",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637395"
+    },
+    {
+        "name": "Recruiting & Sourcing",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637400"
+    },
+    {
+        "name": "Office, Vitebsk",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637404"
+    },
+    {
+        "name": "HR Brand",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637409"
+    },
+    {
+        "name": "GO",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637415"
+    },
+    {
+        "name": "Office, Mogilev",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637419"
+    },
+    {
+        "name": "Office, Brest",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637424"
+    },
+    {
+        "name": "Team of Architects",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637428"
+    },
+    {
+        "name": "US",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637432"
+    },
+    {
+        "name": "EU+US",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637437"
+    },
+    {
+        "name": "Vue",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637442"
+    },
+    {
+        "name": "NodeJS",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637446"
+    },
+    {
+        "name": "React",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637451"
+    },
+    {
+        "name": "Global Deps",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637456"
+    },
+    {
+        "name": "FinTech",
+        "statuses": [
+            {
+                "name": "Office",
+                "count": 0
+            },
+            {
+                "name": "Remotely",
+                "count": 0
+            }
+        ],
+        "updated": "2023-04-03T14:12:57.637461"
+    }
+]
